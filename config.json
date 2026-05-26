@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsncrypt",
+        "uuid": 7100028,
+        "checksum": "w0zn7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
